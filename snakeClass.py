@@ -14,6 +14,7 @@ import statistics
 #################################
 #   Define parameters manually  #
 #################################
+
 def define_parameters():
     params = dict()
     # Neural Network
@@ -30,6 +31,7 @@ def define_parameters():
     params['load_weights'] = False
     params['train'] = True
     params['plot_score'] = True
+    
     return params
 
 
