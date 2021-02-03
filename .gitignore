@@ -1,5 +1,8 @@
+.gitignore
 *.idea
 __pycache__
 .vscode
 .ipynb_checkpoints
 README.md
+.gitattributes
+
